@@ -28,4 +28,5 @@ In order  to run this project make sure you have terraform and amazon CLI instal
 terraform init
 terraform plan
 terraform apply
+
 These commands will automatically deploy the architecture defined in the code to your AWS account.
